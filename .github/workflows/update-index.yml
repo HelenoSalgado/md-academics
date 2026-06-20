@@ -1,0 +1,37 @@
+name: Update Index
+
+on:
+  push:
+    paths-ignore:
+      - 'index.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-index:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run update-index script
+        run: npm run update-index
+
+      - name: Commit and push changes if index.json changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add index.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update index.json [skip ci]" && git push)
