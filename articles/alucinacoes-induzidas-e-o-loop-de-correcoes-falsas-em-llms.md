@@ -98,7 +98,7 @@ Em contraste, fontes institucionais (NASA, JPL, física mainstream) foram tratad
 
 O efeito é enfraquecer estruturalmente a credibilidade percebida de hipóteses novas, independentemente de seu conteúdo real.
 
-![Fluxo de Indução Estrutural de Alucinações de IA e Viés de Autoridade](/images/llm1120.png){height=auto}
+![Fluxo de Indução Estrutural de Alucinações de IA e Viés de Autoridade](https://github.com/HelenoSalgado/salopweb/blob/master/public/images/llm1120.png){height=auto}
 
 **Figura 1: Fluxo de Indução Estrutural de Alucinações de IA e Viés de Autoridade.** Este diagrama ilustra o caminho determinístico da tokenização de entrada para a saída final suprimida. A combinação de viés de autoridade (filtrando hipóteses novas) e função de recompensa (priorizando coerência sobre factualidade) leva a um “Loop de Avaliação Falsa” onde evidência é fabricada para manter o engajamento conversacional.
 
