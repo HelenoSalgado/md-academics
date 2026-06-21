@@ -1,7 +1,20 @@
 {
   "repo_name": "Artigos Acadêmicos Licenciados",
-  "last_updated": 1781989032459,
+  "last_updated": 1782021888790,
   "articles": [
+    {
+      "id": "art_004",
+      "title": "Induções Estruturais para Alucinações em Grandes Modelos de Linguagem: Um Estudo de Caso Apenas de Saída e a Descoberta do Loop de Correção Falsa",
+      "author": "Hiroko Konishi",
+      "summary": "No discurso científico e institucional, um padrão recorrente e robusto pode ser observado: quanto mais cuidadosamente uma parte prejudicada documenta um problema estrutural, mais fácil se torna para os observadores remarcá-lo como uma “queixa pessoal...",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.webp",
+      "categories": [
+        "IA"
+      ],
+      "published_at": 1763596800000,
+      "estimated_reading_time_min": 12
+    },
     {
       "id": "art_002",
       "title": "Introdução à Programação Funcional em Kotlin",
@@ -54,12 +67,8 @@
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/reformas-filosoficas-de-petrus-ramus.webp",
       "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/pdfs/reformas-filosoficas-de-petrus-ramus.pdf",
       "categories": [
-        "Renascimento",
-        "Humanismo",
-        "Lógica",
-        "Lógica aristotélica",
-        "Metodização",
-        "Petrus Ramus"
+        "Filosofia",
+        "Lógica"
       ],
       "published_at": 1781913600000,
       "estimated_reading_time_min": 30,
@@ -67,7 +76,11 @@
       "udc": "1(091):161/162",
       "bbk": "87.3:87.4",
       "hos": "113",
-      "license": "Direitos autorais: © 2025 por AcademyGate Publishing. Este artigo é um artigo de acesso aberto distribuído sob os termos e condições da licença CC BY-NC 4.0. Para obter detalhes sobre esta licença, visite https://creativecommons.org/licenses/by-nc/4.0/."
+      "license": "Direitos autorais: © 2025 por AcademyGate Publishing. Este artigo é um artigo de acesso aberto distribuído sob os termos e condições da licença CC BY-NC 4.0. Para obter detalhes sobre esta licença, visite https://creativecommons.org/licenses/by-nc/4.0/.",
+      "journal": "History of Science",
+      "volume": "6",
+      "issue": "5",
+      "pages": "101-112"
     }
   ]
 }
