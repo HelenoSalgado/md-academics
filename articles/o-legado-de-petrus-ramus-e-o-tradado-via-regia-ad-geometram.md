@@ -45,7 +45,7 @@ Com o resgate dos antigos saberes teóricos, os conhecimentos ligados a natureza
 
 Assim, a impressa da época teve um papel crucial ao disseminar esses novos conhecimentos desenvolvidos, que eram incorporados nos tratados voltados para as matemáticas, especificadamente as que compunham o quadrivium[^1]. Saito (2015, p. 164) descreve esse momento:
 
-> O surgimento da imprensa no século XV acelerou o processo de disseminaçãoe difusão de conhecimentos novos e antigos. Estudos ligados à astronomia e àmúsica, bem como à geometria e à aritmética, foram impressos e divulgadosentre muitos  estudiosos de diferentes regiões da Europa. Embora nem todostivesse acesso às ciências, visto que o livro era um produto muito caro e amaioria dos europeus era analfabeta, a partir do século XVI conhecimentosantigos e novos tiveram maior circulação em períodos anteriores.
+> O surgimento da imprensa no século XV acelerou o processo de disseminaçãoe difusão de conhecimentos novos e antigos. Estudos ligados à astronomia e à música, bem como à geometria e à aritmética, foram impressos e divulgados entre muitos estudiosos de diferentes regiões da Europa. Embora nem todos tivesse acesso às ciências, visto que o livro era um produto muito caro e a maioria dos europeus era analfabeta, a partir do século XVI conhecimentos antigos e novos tiveram maior circulação em períodos anteriores.
 
 A respeito das temáticas dos primeiros tratados matemáticos escritos e publicados na Idade Moderna, era incluído discussões sobre as artes mecânicas e arquitetura da antiguidade tardia (SAITO, 2015). Nisso, eram incorporados alguns procedimentos mecânicos em diferentes máquinas, sendo pautado questões de ordem natural e matemática, passando a compor o banco de materiais de consultas e estudo nas universidades medievais (SAITO, 2015).
 
@@ -143,8 +143,7 @@ De acordo com Pereira e Saito (2018), a primeira categoria contém nove livros, 
 
 Ao final dessa primeira compilação, precisamente no livro IX, é descrito um instrumento de agrimensura intitulado por báculo (Figura 3), que era utilizado tanto para medição de distâncias terrestres, quando celestes (SAITO; PEREIRA, 2019). O instrumento matemático, era uma variante apresentado por Petrus Ramus, era disposto em um formato de cruz, que se diferenciava dos demais por ter uma de suas hastes móvel (Transversal), que poderia se mover para cima e para baixo, de um lado para outro sob a outra haste (Indicador).
 
-Figura 3 – Esquematização do báculo de Petrus Ramus e suas peças  
-Fonte: Pereira e Saito (2019, p. 363)
+![Figura 3 – Esquematização do báculo de Petrus Ramus e suas peças. Fonte: Pereira e Saito (2019, p. 363)](/assets/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-3.webp)
 
 A segunda categoria contém dez livros, com a abordagem de assuntos a respeito de medição de grandezas com duas dimensões (comprimento e largura), direcionando a medida de áreas das figuras planas importantes no período como o triângulo, o paralelogramo, o retângulo, dentre outras. Ainda são apresentadas outras maneiras de obtenção de áreas, por meio de condições particulares propostas por Petrus Ramus de figuras como o círculo e o triângulo (PEREIRA; SAITO, 2018).
 

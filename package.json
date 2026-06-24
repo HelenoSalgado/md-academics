@@ -7,7 +7,8 @@
     "update-index": "node scripts/update-index.js",
     "test-index": "node scripts/test-index.js",
     "test-articles": "node scripts/test-articles.js",
-    "convert-covers": "node scripts/convert-covers.js"
+    "convert-covers": "node scripts/convert-covers.js",
+    "convert-assets": "node scripts/convert-assets.js"
   },
   "dependencies": {
     "@google/genai": "*"
