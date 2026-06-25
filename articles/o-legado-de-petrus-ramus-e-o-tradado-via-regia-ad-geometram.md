@@ -143,7 +143,7 @@ De acordo com Pereira e Saito (2018), a primeira categoria contém nove livros, 
 
 Ao final dessa primeira compilação, precisamente no livro IX, é descrito um instrumento de agrimensura intitulado por báculo (Figura 3), que era utilizado tanto para medição de distâncias terrestres, quando celestes (SAITO; PEREIRA, 2019). O instrumento matemático, era uma variante apresentado por Petrus Ramus, era disposto em um formato de cruz, que se diferenciava dos demais por ter uma de suas hastes móvel (Transversal), que poderia se mover para cima e para baixo, de um lado para outro sob a outra haste (Indicador).
 
-![Figura 3 – Esquematização do báculo de Petrus Ramus e suas peças. Fonte: Pereira e Saito (2019, p. 363)](/assets/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometriam-figura-3.webp)
+![Figura 3 – Esquematização do báculo de Petrus Ramus e suas peças. Fonte: Pereira e Saito (2019, p. 363)](/assets/o-legado-de-petrus-ramus-e-o-tratado-via-regia-ad-geometram-figura-3.webp)
 
 A segunda categoria contém dez livros, com a abordagem de assuntos a respeito de medição de grandezas com duas dimensões (comprimento e largura), direcionando a medida de áreas das figuras planas importantes no período como o triângulo, o paralelogramo, o retângulo, dentre outras. Ainda são apresentadas outras maneiras de obtenção de áreas, por meio de condições particulares propostas por Petrus Ramus de figuras como o círculo e o triângulo (PEREIRA; SAITO, 2018).
 
