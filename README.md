@@ -1,6 +1,6 @@
-# 🎓 MD Academics - Artigos Acadêmicos e Científicos
+# 🎓 OpenSciMD - Open-Access Scientific Articles in Markdown
 
-Bem-vindo ao **MD Academics**, um repositório centralizado projetado para o armazenamento, organização e compartilhamento de artigos acadêmicos e científicos estruturados em formato Markdown. 
+Bem-vindo ao **OpenSciMD**, um repositório centralizado projetado para o armazenamento, organização e compartilhamento de artigos acadêmicos e científicos estruturados em formato Markdown. 
 
 O repositório conta com uma automação construída em Node.js que extrai metadados acadêmicos (como DOI, UDC e Licenças) e compila automaticamente o índice geral para consumo por aplicações externas.
 

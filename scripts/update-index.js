@@ -198,7 +198,7 @@ function updateIndex() {
   }
 
   // Read existing index.json to preserve IDs and properties
-  let existingIndex = { repo_name: 'Artigos Acadêmicos Licenciados', last_updated: Date.now(), articles: [] };
+  let existingIndex = { repo_name: 'OpenSciMD', last_updated: Date.now(), articles: [] };
   if (fs.existsSync(INDEX_FILE)) {
     try {
       existingIndex = JSON.parse(fs.readFileSync(INDEX_FILE, 'utf8'));

@@ -1,19 +1,20 @@
 {
-  "repo_name": "Artigos Acadêmicos Licenciados",
-  "last_updated": 1782354525643,
+  "repo_name": "OpenSciMD",
+  "last_updated": 1782777322910,
   "articles": [
     {
       "id": "art_004",
       "title": "Induções Estruturais para Alucinações em Grandes Modelos de Linguagem: Um Estudo de Caso Apenas de Saída e a Descoberta do Loop de Correção Falsa",
       "author": "Hiroko Konishi",
-      "summary": "No discurso científico e institucional, um padrão recorrente e robusto pode ser observado: quanto mais cuidadosamente uma parte prejudicada documenta um problema estrutural, mais fácil se torna para os observadores remarcá-lo como uma “queixa pessoal...",
+      "summary": "Este estudo de caso explora as alucinações de Grandes Modelos de Linguagem (LLMs), focando em como eles fabricam informações e caem em 'loops de correção falsa'. Analisa o viés de autoridade e a supressão de hipóteses não-mainstream, propondo que esses comportamentos são induções estruturais no design de LLMs.",
       "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/articles/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.md",
       "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/md-academics/main/covers/mobile/alucinacoes-induzidas-e-o-loop-de-correcoes-falsas-em-llms.webp",
       "categories": [
         "IA"
       ],
       "published_at": 1763596800000,
-      "estimated_reading_time_min": 12
+      "estimated_reading_time_min": 12,
+      "license": "CC BY-NC 4.0"
     },
     {
       "id": "art_005",
@@ -72,6 +73,7 @@
       "published_at": 1577836800000,
       "estimated_reading_time_min": 22,
       "doi": "10.30938/bocehm.v7i20.3297",
+      "license": "CC BY 4.0",
       "journal": "Boletim Cearense de Educação e História da Matemática",
       "volume": "7",
       "issue": "20",

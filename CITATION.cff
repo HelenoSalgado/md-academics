@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Se você usar este software, por favor cite-o conforme abaixo."
+authors:
+  - family-names: "Salgado"
+    given-names: "Heleno"
+    orcid: "https://orcid.org/0009-0003-3945-2493"
+title: "OpenSciMD: Open-Access Scientific Articles in Markdown"
+type: dataset
+version: "1.0.0"
+date-released: "2026-06-29"
+url: "https://github.com/HelenoSalgado/md-academics"
+repository-code: "https://github.com/HelenoSalgado/md-academics"
+abstract: "Um corpus aberto e curado de artigos acadêmicos e científicos estruturados em formato Markdown, otimizados para leitura digital, processamento de linguagem natural (NLP) e integração com aplicações educacionais."
+keywords:
+  - open-science
+  - scientific-dataset
+  - academic-corpus
+  - markdown-articles
+  - reading-database
+license: "CC-BY-4.0"

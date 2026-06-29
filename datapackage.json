@@ -1,0 +1,40 @@
+{
+  "name": "openscimd",
+  "title": "OpenSciMD: Open-Access Scientific Articles in Markdown",
+  "description": "Um corpus aberto e curado de artigos acadêmicos e científicos estruturados em formato Markdown, otimizados para leitura digital, processamento de linguagem natural (NLP) e aplicações educacionais.",
+  "homepage": "https://github.com/HelenoSalgado/md-academics",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "resources": [
+    {
+      "name": "articles-index",
+      "path": "index.json",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          { "name": "id", "type": "string", "description": "Identificador único incremental do artigo (ex: art_001)" },
+          { "name": "title", "type": "string", "description": "Título principal do artigo" },
+          { "name": "authors", "type": "array", "description": "Lista de autores com afiliação, orcid e contato" },
+          { "name": "summary", "type": "string", "description": "Resumo original da publicação científica" },
+          { "name": "remote_url", "type": "string", "description": "URL direta do arquivo Markdown bruto no GitHub" },
+          { "name": "cover_url", "type": "string", "description": "URL direta da imagem de capa correspondente" },
+          { "name": "pdf_url", "type": "string", "description": "URL direta do arquivo PDF original se disponível" },
+          { "name": "categories", "type": "array", "description": "Categorias de indexação temática do artigo" },
+          { "name": "published_at", "type": "integer", "description": "Data de publicação original em timestamp de milissegundos" },
+          { "name": "estimated_reading_time_min", "type": "integer", "description": "Tempo estimado de leitura acadêmica em minutos" },
+          { "name": "doi", "type": "string", "description": "Digital Object Identifier original da publicação se disponível" },
+          { "name": "license", "type": "string", "description": "Licença sob a qual o artigo original está distribuído" },
+          { "name": "journal", "type": "string", "description": "Nome do periódico científico original" },
+          { "name": "volume", "type": "string", "description": "Volume do periódico original" },
+          { "name": "issue", "type": "string", "description": "Edição do periódico original" },
+          { "name": "pages", "type": "string", "description": "Intervalo de páginas no periódico original" }
+        ]
+      }
+    }
+  ]
+}
