@@ -1,5 +1,5 @@
 {
-  "name": "md-academics",
+  "name": "openscimd",
   "version": "1.0.0",
   "description": "Repositório de Artigos Acadêmicos e Científicos",
   "main": "scripts/update-index.js",

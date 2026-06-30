@@ -6,7 +6,7 @@ const ARTICLES_DIR = path.join(__dirname, '..', 'articles');
 const COVERS_DIR = path.join(__dirname, '..', 'covers');
 const INDEX_FILE = path.join(__dirname, '..', 'index.json');
 const GITHUB_USERNAME = 'HelenoSalgado';
-const REPO_NAME = 'md-academics';
+const REPO_NAME = 'openscimd';
 const DEFAULT_WPM = 200; // Words Per Minute for academic/scientific text
 
 // Helper to parse date to ms timestamp

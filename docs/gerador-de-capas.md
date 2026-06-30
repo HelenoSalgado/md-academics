@@ -37,7 +37,7 @@ Para garantir que as capas pareçam profissionais e sofisticadas, a imagem gerad
 Para facilitar a manutenção e garantir eficiência, o repositório trabalha com scripts independentes para a geração de imagens por IA. As chaves de configuração do arquivo `.env` são compartilhadas, mas cada script as consome de acordo com seu provedor.
 
 ### 1. Configuração do `.env`
-Primeiro, crie um arquivo `.env` na raiz do projeto (copie o modelo de [.env.example](file:///home/heleno/Documentos/GitHub/md-academics/.env.example)):
+Primeiro, crie um arquivo `.env` na raiz do projeto (copie o modelo de [.env.example](file:///home/heleno/Documentos/GitHub/openscimd/.env.example)):
 
 ```bash
 cp .env.example .env
@@ -93,7 +93,7 @@ A imagem gerada será salva diretamente em `covers/nome-do-artigo.webp`.
 
 ## 🔄 Passo Final Pós-Geração
 
-Toda vez que uma nova imagem de capa for gerada ou alterada, lembre-se de atualizar o índice do repositório para que o link da nova imagem de capa seja devidamente computado no [index.json](file:///home/heleno/Documentos/GitHub/md-academics/index.json):
+Toda vez que uma nova imagem de capa for gerada ou alterada, lembre-se de atualizar o índice do repositório para que o link da nova imagem de capa seja devidamente computado no [index.json](file:///home/heleno/Documentos/GitHub/openscimd/index.json):
 
 ```bash
 node scripts/update-index.js

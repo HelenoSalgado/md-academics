@@ -8,8 +8,8 @@ title: "OpenSciMD: Open-Access Scientific Articles in Markdown"
 type: dataset
 version: "1.0.0"
 date-released: "2026-06-29"
-url: "https://github.com/HelenoSalgado/md-academics"
-repository-code: "https://github.com/HelenoSalgado/md-academics"
+url: "https://github.com/HelenoSalgado/openscimd"
+repository-code: "https://github.com/HelenoSalgado/openscimd"
 abstract: "Um corpus aberto e curado de artigos acadêmicos e científicos estruturados em formato Markdown, otimizados para leitura digital, processamento de linguagem natural (NLP) e integração com aplicações educacionais."
 keywords:
   - open-science

@@ -9,7 +9,7 @@ Este repositório foi concebido para o armazenamento, organização e distribui�
 O repositório é organizado de forma modular para separar conteúdo de texto, mídia (capas), documentos originais e automações:
 
 ```text
-md-academics/
+openscimd/
 ├── articles/            # Artigos em formato Markdown (.md)
 ├── covers/              # Imagens de capa associadas aos artigos (.webp, .png, etc.)
 ├── pdfs/                # Arquivos PDF originais dos artigos (.pdf)
