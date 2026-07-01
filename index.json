@@ -1,6 +1,6 @@
 {
   "repo_name": "OpenSciMD",
-  "last_updated": 1782777322910,
+  "last_updated": 1782875443409,
   "articles": [
     {
       "id": "art_004",
@@ -15,6 +15,36 @@
       "published_at": 1763596800000,
       "estimated_reading_time_min": 12,
       "license": "CC BY-NC 4.0"
+    },
+    {
+      "id": "art_008",
+      "title": "AS MARGENS DA REFORMA: PETRUS RAMUS, O CALVINISMO E A AUTONOMIA DO SABER POLÍTICO",
+      "authors": [
+        {
+          "name": "Rafael Ramis Barceló",
+          "orcid": "0000-0003-1756-6695",
+          "email": "r.ramis@uib.es",
+          "affiliation": "Universitat de les Illes Balears / Instituto de Estudios Hispánicos en la Modernidad (IEHM) Unidade associada ao CSIC"
+        }
+      ],
+      "summary": "Neste trabalho explica-se a relevância de Petrus Ramus na construção da política, no marco da Reforma, como uma disciplina independente. Analisam-se as obras de Ramus, tanto as que escreveu como católico quanto as que preparou na última etapa de sua vida, já convertido ao calvinismo, e indica-se a influência política de Ramus num setor minoritário, ainda que muito influente entre os calvinistas. Finalmente, tecem-se algumas considerações sobre a importância do ramismo na configuração de um pensamento político calvinista.",
+      "remote_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/articles/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.md",
+      "cover_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/covers/mobile/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.webp",
+      "pdf_url": "https://raw.githubusercontent.com/HelenoSalgado/openscimd/main/pdfs/as-margens-da-reforma-petrus-ramus-o-calvinismo-e-a-autonomia-do-saber-politico.pdf",
+      "categories": [
+        "Filosofia",
+        "Teologia",
+        "Ciência Política",
+        "História"
+      ],
+      "published_at": 1530316800000,
+      "estimated_reading_time_min": 59,
+      "doi": "10.3989/hs.2018.005",
+      "license": "Direitos autorais: © 2018 CSIC. Este é um artigo de acesso aberto distribuído sob os termos da licença de uso e distribuição Creative Commons Reconhecimento 4.0 Internacional (CC BY 4.0).",
+      "journal": "Hispania Sacra",
+      "volume": "70",
+      "issue": "141",
+      "pages": "51-63"
     },
     {
       "id": "art_005",
